@@ -1,0 +1,89 @@
+.m-5 {
+    margin-top: 150px !important;
+}
+
+.col {
+    height: 80px;
+}
+
+.jugador {
+    font-size: 50px;
+}
+
+
+/* lado_izquierdo1 ladocentro1 lado_derecho1 */
+
+.lado_izquierdo1 {
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.ladocentro1 {
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.lado_derecho1 {
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.lado_izquierdo2 {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.ladocentro2 {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.lado_derecho2 {
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.lado_izquierdo3 {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.ladocentro3 {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.lado_derecho3 {
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col p {
+    padding: 0;
+}
+
+.contenedorGame {
+    width: 50%;
+    height: 60%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedorGame p {
+    font-size: 80px;
+}
